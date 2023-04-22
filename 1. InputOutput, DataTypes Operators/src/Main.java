@@ -9,9 +9,9 @@ public class Main {
         World !
         Note: There is a empty line you need print between Hello and World !
         */
-//        System.out.println("Hello");
-//        System.out.println();
-//        System.out.println("World !");
+        System.out.println("Hello");
+        System.out.println();
+        System.out.println("World !");
 
         /*
         2. Print the following pattern in output
@@ -22,12 +22,12 @@ public class Main {
         *
         Print the following pattern in 5 lines with 5, 4, 3, 2, 1 stars in each line
         */
-//        for(int i=0; i<5; i++){
-//            for(int j=i; j<5; j++){
-//                System.out.print("*");
-//            }
-//            System.out.println();
-//        }
+        for(int i=0; i<5; i++){
+            for(int j=i; j<5; j++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
         /*
         3. Print the following pattern in output
              *
@@ -37,16 +37,16 @@ public class Main {
          *****
          Print the following pattern in 5 lines with 4 spaces and 1 star, 3 spaces and 2 stars, 2 spaces and 3 stars, 1 spaces and 4 stars, 0 spaces and 5 stars in respectively lines
          */
-//        int i,j,k;
-//        for(i=0; i<5; i++){
-//            for(j=i+1; j<5; j++){
-//                System.out.print(" ");
-//            }
-//            for(k=0; k<i+1; k++){
-//                System.out.print("*");
-//            }
-//            System.out.println();
-//        }
+        int i,j,k;
+        for(i=0; i<5; i++){
+            for(j=i+1; j<5; j++){
+                System.out.print(" ");
+            }
+            for(k=0; k<i+1; k++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
         /*
         4. Perform the following operations on 6 and 3 and print their respective outputs in different lines.
             1. Addition
@@ -60,10 +60,10 @@ public class Main {
                 18
                 2
          */
-//        System.out.println(6+3);
-//        System.out.println(6-3);
-//        System.out.println(6*3);
-//        System.out.println(6/3);
+        System.out.println(6+3);
+        System.out.println(6-3);
+        System.out.println(6*3);
+        System.out.println(6/3);
         /*
         5. Given total bills amount and amount of a single bill. Print number of bills.
         Note : The total amount is equally splitted in all bills. The number of bills should be an integer value.
@@ -76,11 +76,11 @@ public class Main {
         Output:-
         25
          */
-//        Scanner scn  = new Scanner(System.in);
-//        double N = scn.nextDouble();
-//        int M = scn.nextInt();
-//        int bills = (int)(N/M);
-//        System.out.print(bills);
+        Scanner scn  = new Scanner(System.in);
+        double N = scn.nextDouble();
+        int M = scn.nextInt();
+        int bills = (int)(N/M);
+        System.out.print(bills);
         /*
         6. Take an input of single sentence, single word, single character, an integer, a float value, a double value in the given order.
         Input:
