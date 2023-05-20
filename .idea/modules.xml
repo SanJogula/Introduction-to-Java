@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1. InputOutput, DataTypes Operators/1. InputOutput, DataTypes, Operators.iml" filepath="$PROJECT_DIR$/1. InputOutput, DataTypes Operators/1. InputOutput, DataTypes, Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. InputOutput, DataTypes, Operators/1. InputOutput, DataTypes, Operators.iml" filepath="$PROJECT_DIR$/1. InputOutput, DataTypes, Operators/1. InputOutput, DataTypes, Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10. Strings/10. Strings.iml" filepath="$PROJECT_DIR$/10. Strings/10. Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11. HashMap &amp; HashSet/11. HashMap &amp; HashSet.iml" filepath="$PROJECT_DIR$/11. HashMap &amp; HashSet/11. HashMap &amp; HashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/2. If Else/2. If Else.iml" filepath="$PROJECT_DIR$/2. If Else/2. If Else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. While Loop/3. While Loop.iml" filepath="$PROJECT_DIR$/3. While Loop/3. While Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. For Loop/4. For Loop.iml" filepath="$PROJECT_DIR$/4. For Loop/4. For Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. Patterns/5. Patterns.iml" filepath="$PROJECT_DIR$/5. Patterns/5. Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6. Functions/6. Functions.iml" filepath="$PROJECT_DIR$/6. Functions/6. Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7. 1DArrays/7. 1DArrays.iml" filepath="$PROJECT_DIR$/7. 1DArrays/7. 1DArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8. 2DArrays/8. 2DArrays.iml" filepath="$PROJECT_DIR$/8. 2DArrays/8. 2DArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9. ArrayLists/9. ArrayLists.iml" filepath="$PROJECT_DIR$/9. ArrayLists/9. ArrayLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Introduction-to-Java.iml" filepath="$PROJECT_DIR$/.idea/Introduction-to-Java.iml" />
     </modules>
   </component>
